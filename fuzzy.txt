@@ -1,0 +1,8 @@
+Pada tahun 1965, Prof. Lutfi A. Zadeh seorang peneliti di Universitas California 
+di Berkeley memperkenalkan metode fuzzy untuk pertama kalinya. Professor Zadeh menganggap 
+bahwa logika benar atau salah tidak bisa mewakili setiap pemikiran manusia, lalu dikembangkanlah 
+logika fuzzy yang dapat mempresentasikan setiap keadaan maupun dapat mewakili pemikiran manusia. 
+Berbeda dengan logika digital yang hanya memiliki dua nilai yaitu 0 atau 1, logika fuzzy memiliki
+ nilai derajat keanggotaan antara 0 hingga 1. Logika fuzzy digunakan untuk mengubah suatu besaran 
+ yang diuraikan menggunakan bahasa (linguistic) dengan menunjukkan sejauh mana nilai itu salah seperti 
+ sangat bagus, bagus, sedang, buruk dan sangat buruk
