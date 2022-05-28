@@ -9,3 +9,4 @@ Berbeda dengan logika digital yang hanya memiliki dua nilai yaitu 0 atau 1, logi
 
  Tahap fuzzy
  1. Fuzzyfikasi
+ 2. Inferensi Fuzzy
