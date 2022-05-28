@@ -8,4 +8,4 @@ Berbeda dengan logika digital yang hanya memiliki dua nilai yaitu 0 atau 1, logi
  sangat bagus, bagus, sedang, buruk dan sangat buruk
 
  Tahap fuzzy
- 
+ 1. Fuzzyfikasi
